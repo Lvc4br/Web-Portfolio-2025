@@ -1,6 +1,7 @@
 # Portfólio de Luca Toniolo
 
 Bem-vindo ao meu portfólio! Aqui você encontra meus principais projetos e experiências nas áreas de **3D, programação, Motion Design, UX/UI** e meu **TCC em Inteligência Artificial**.
+https://lvc4br.github.io/Web-Portfolio/#projects
 
 ## 🔹 Sobre o Portfólio
 - Desenvolvido com **HTML, CSS e JavaScript**.
