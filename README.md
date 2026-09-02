@@ -1,20 +1,33 @@
 # Luca Toniolo — Web Portfolio
 
-> Personal portfolio focused on **3D Art, Technical Art, Motion Design, UX/UI and programming**.
+> Personal portfolio focused on **Technical Art, 3D Art, digital production and programming**.
 
 🌐 **Live portfolio:** https://lvc4br.github.io/Web-Portfolio/
 
 ## Overview
 
-This project is my personal portfolio and a practical front-end project. It presents selected work and documents my development across digital art and technology.
+This is my personal portfolio and a practical front-end project. It presents selected work while documenting the intersection between **3D production, technical workflows, visual design and software development**.
 
 ### Featured areas
 
 - 🎨 3D Modeling & Digital Art
+- 🧰 Technical Art & 3D Workflows
 - 🎬 Motion Design
 - 🧩 UX/UI Design
-- 🤖 Artificial Intelligence / TCC
-- 💻 Programming & Web Development
+- ⚙️ Programming, Automation & Tools
+- 💻 Front-end Development
+
+## Technical Art Direction
+
+My Technical Art focus is built around using programming to support 3D production. Current areas of study and experimentation include:
+
+- Blender Python (`bpy`)
+- Procedural workflows
+- Production automation
+- Scene and asset organization
+- Naming and validation tools
+- Artist-facing utilities
+- Digital production pipelines
 
 ## Built With
 
@@ -39,15 +52,15 @@ Web-Portfolio/
 ## Portfolio Sections
 
 - **Home** — professional introduction
-- **Projects** — selected projects and TCC
+- **Projects** — selected creative and technical work
 - **Skills** — technical and creative skills
 - **About** — background and experience
 - **Certifications** — certificates and qualifications
-- **Contact** — contact form
+- **Contact** — contact information
 
 ## Purpose
 
-The goal of this project is not only to present my work, but also to demonstrate practical skills in **front-end development, UI implementation, interaction design and project organization**.
+The goal is to present both sides of my profile: **3D art and technical development**. The portfolio demonstrates practical front-end skills while serving as the visual presentation layer for my 3D and Technical Art work.
 
 ## Author
 
