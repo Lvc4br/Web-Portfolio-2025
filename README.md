@@ -1,42 +1,47 @@
 # Luca Toniolo — Web Portfolio
 
-> Personal portfolio focused on **Technical Art, 3D Art, digital production and programming**.
+> Source code for my personal portfolio and a practical **front-end development project**.
 
 🌐 **Live portfolio:** https://lvc4br.github.io/Web-Portfolio/
 
-## Overview
+## 🎯 Purpose
 
-This is my personal portfolio and a practical front-end project. It presents selected work while documenting the intersection between **3D production, technical workflows, visual design and software development**.
+This repository contains the code behind my personal portfolio. It demonstrates my ability to build and organize a real web interface using **HTML, CSS and JavaScript**, while the live site presents my visual work.
 
-### Featured areas
+The repository is intentionally focused on the **development side** of the portfolio. My 3D work is presented visually on the live portfolio and dedicated art platforms.
 
-- 🎨 3D Modeling & Digital Art
-- 🧰 Technical Art & 3D Workflows
-- 🎬 Motion Design
-- 🧩 UX/UI Design
-- ⚙️ Programming, Automation & Tools
-- 💻 Front-end Development
-
-## Technical Art Direction
-
-My Technical Art focus is built around using programming to support 3D production. Current areas of study and experimentation include:
-
-- Blender Python (`bpy`)
-- Procedural workflows
-- Production automation
-- Scene and asset organization
-- Naming and validation tools
-- Artist-facing utilities
-- Digital production pipelines
-
-## Built With
+## 🛠️ Technologies
 
 - HTML5
 - CSS3
 - JavaScript
+- Git / GitHub
 - GitHub Pages
 
-## Project Structure
+## 💻 Development Focus
+
+- Semantic HTML structure
+- CSS layout and responsive design
+- JavaScript interactions
+- DOM manipulation
+- UI organization
+- Reusable page structure
+- Asset organization
+- Deploying a static site with GitHub Pages
+
+## 🎨 Visual Portfolio
+
+The live website is the presentation layer for my work in:
+
+- 3D Modeling & Digital Art
+- Motion Design
+- UX/UI Design
+- Digital Production
+- Technical Art studies
+
+The GitHub repository documents **how the website is built**; the live portfolio shows **what is presented through it**.
+
+## 📁 Project Structure
 
 ```text
 Web-Portfolio/
@@ -49,22 +54,12 @@ Web-Portfolio/
 └── README.md
 ```
 
-## Portfolio Sections
+## 🚀 Live Site
 
-- **Home** — professional introduction
-- **Projects** — selected creative and technical work
-- **Skills** — technical and creative skills
-- **About** — background and experience
-- **Certifications** — certificates and qualifications
-- **Contact** — contact information
+https://lvc4br.github.io/Web-Portfolio/
 
-## Purpose
-
-The goal is to present both sides of my profile: **3D art and technical development**. The portfolio demonstrates practical front-end skills while serving as the visual presentation layer for my 3D and Technical Art work.
-
-## Author
+## 👤 Author
 
 **Luca Toniolo — Lvc4br**
 
-- Portfolio: https://lvc4br.github.io/Web-Portfolio/
-- GitHub: https://github.com/Lvc4br
+GitHub: https://github.com/Lvc4br
