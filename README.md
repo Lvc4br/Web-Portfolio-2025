@@ -1,65 +1,35 @@
-# Luca Toniolo — Web Portfolio
+# Web Portfolio 2025 — Protótipo de Estudo
 
-> Source code for my personal portfolio and a practical **front-end development project**.
+> **Status:** versão experimental / projeto de teste  
+> **Finalidade:** protótipo desenvolvido antes da criação do repositório oficial do portfólio.
 
-🌐 **Live portfolio:** https://lvc4br.github.io/Web-Portfolio/
+Este repositório registra uma etapa inicial de experimentação no desenvolvimento do meu portfólio pessoal. Foi utilizado para testar ideias, estrutura de páginas e recursos de front-end antes da consolidação do projeto no repositório oficial.
 
-## 🎯 Purpose
+**Este não é o repositório principal nem a versão oficial do portfólio.**
 
-This repository contains the code behind my personal portfolio. It demonstrates my ability to build and organize a real web interface using **HTML, CSS and JavaScript**, while the live site presents my visual work.
+## Repositório oficial
 
-The repository is intentionally focused on the **development side** of the portfolio. My 3D work is presented visually on the live portfolio and dedicated art platforms.
+Para consultar a versão definida e mantida como projeto principal, acesse:
 
-## 🛠️ Technologies
+**[LV_Portfolio — repositório oficial](https://github.com/Lvc4br/LV_Portfolio)**
 
-- HTML5
-- CSS3
+## Objetivo deste protótipo
+
+O repositório é mantido como registro do processo de aprendizagem e da evolução do projeto. Pode ser útil para comparar decisões e experimentos da fase inicial com a implementação posterior.
+
+## Tecnologias exploradas
+
+- HTML
+- CSS
 - JavaScript
-- Git / GitHub
-- GitHub Pages
+- Git e GitHub
 
-## 💻 Development Focus
+As tecnologias e funcionalidades efetivamente presentes podem variar conforme o estado deste protótipo. Consulte os arquivos do projeto para verificar sua implementação.
 
-- Semantic HTML structure
-- CSS layout and responsive design
-- JavaScript interactions
-- DOM manipulation
-- UI organization
-- Reusable page structure
-- Asset organization
-- Deploying a static site with GitHub Pages
+## Observação
 
-## 🎨 Visual Portfolio
+Este projeto tem caráter **acadêmico e experimental**. Ele não representa necessariamente as práticas, a estrutura ou os recursos da versão oficial atual. Para visualizar o portfólio publicado, consulte o [site do portfólio](https://lvc4br.github.io/Web-Portfolio/).
 
-The live website is the presentation layer for my work in:
+---
 
-- 3D Modeling & Digital Art
-- Motion Design
-- UX/UI Design
-- Digital Production
-- Technical Art studies
-
-The GitHub repository documents **how the website is built**; the live portfolio shows **what is presented through it**.
-
-## 📁 Project Structure
-
-```text
-Web-Portfolio/
-├── CSS/        # Stylesheets
-├── JS/         # JavaScript functionality
-├── Docs/       # Documentation and supporting material
-├── img/        # Portfolio assets
-├── index.html  # Main page
-├── project.html
-└── README.md
-```
-
-## 🚀 Live Site
-
-https://lvc4br.github.io/Web-Portfolio/
-
-## 👤 Author
-
-**Luca Toniolo — Lvc4br**
-
-GitHub: https://github.com/Lvc4br
+*Protótipo de estudo desenvolvido antes da definição do repositório oficial do portfólio pessoal.*
